@@ -6,6 +6,9 @@
             "account_login_id": "111",
             "account_name": "山田太郎１",
             "account_kana": "ヤマダタロウ",
+            "belong_name": "開発部",
+            "account_authority_type": 1,
+            "memo": "",
             "created_at": "2023-11-11 00:00:00",
             "updated_at": "2023-11-11 00:00:00",
             "deleted_at": null
